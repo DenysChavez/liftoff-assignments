@@ -3,8 +3,6 @@
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
-## Submission Instructions
-
 ### Wireframes
 + [Account Management](https://github.com/DenysChavez/liftoff-assignments/blob/master/P3-Project_Planning/account-management.jpg)
 + [Create Recipe](https://github.com/DenysChavez/liftoff-assignments/blob/master/P3-Project_Planning/create-recipe.jpg)
